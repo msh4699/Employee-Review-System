@@ -21,6 +21,10 @@ To install all the dependences of the project, run the following command:
 
 
 #### Deployment Link:
+https://employee-review-sys.vercel.app/signin
+
+
+####LinkedIn
  - Link : https://www.linkedin.com/in/mansi-sharma-4548a7188/
 
 
